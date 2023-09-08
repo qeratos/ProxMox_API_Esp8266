@@ -62,7 +62,28 @@ struct Node{
 
 ## Creating API User and Key 
 
-### 1. Goto Datacenter tab. Nex to Permissions and to Users
-<p align="center">
-<img  src="https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen1.png"  width="350" alt="Users Tab"/>
+### 1. Goto Datacenter tab. Next to Permissions and to Users
+<p>
+  <img  src="https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen1.png"  width="350" alt="Users Tab"/>
 </p>
+
+
+### 2. Create new user for api. It better than use your root for all activities.
+<p>
+  <img  src="https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen2.png"  width="350" alt="Users Tab"/>
+</p>
+- Give user name and other setting like in screenshoot.
+
+
+### 3. Create Token. It must be your secret key.
+<p>
+  <img  src="https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen3.png"  width="350" alt="Users Tab"/>
+</p>
+- Move to `API Tokens` tab. Select user which you create and give it ID.
+- You must write it somwhere because you not be able to see it again.
+
+### 4.
+<p>
+  <img  src="https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen4.png"  width="350" alt="Users Tab"/>
+</p>
+- For all activites which this library gives you, select administrator role for this API token.
