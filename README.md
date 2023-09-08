@@ -63,4 +63,4 @@ struct Node{
 ## Creating API User and Key 
 
 ### 1. Goto Datacenter tab. Nex to Permissions and to Users
-![Image Alt](https://github.com/younDev1/ProxMox_API_Esp8266/img/screen1.png)
+![Image Alt](https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen1.png)
