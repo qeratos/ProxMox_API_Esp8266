@@ -82,7 +82,7 @@ struct Node{
 - Move to `API Tokens` tab. Select user which you create and give it ID.
 - You must write it somwhere because you not be able to see it again.
 
-### 4.
+### 4. Add token permissions.
 <p>
   <img  src="https://github.com/younDev1/ProxMox_API_Esp8266/blob/main/img/screen4.png"  width="350" alt="Users Tab"/>
 </p>
